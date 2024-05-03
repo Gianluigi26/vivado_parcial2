@@ -32,3 +32,7 @@ implica cargar el bitstream generado durante la implementación en el dispositiv
 ![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/3cf85aa2-3658-4cf2-b409-873cd0982a4f)
 ![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/c4c43b35-7586-45bb-96eb-5564b7390036)
 
+
+video de del circuito en funcionamineto  
+https://youtu.be/0PnA4kRwHDA
+
