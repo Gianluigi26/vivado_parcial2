@@ -6,8 +6,7 @@ En este paso describimos el comportamiento de un circuito digital a nivel abstra
 
 -2.	Simulation
 En este paso se emplea la herramienta de simulación para verificar el comportamiento del diseño antes de sintetizarlo en un dispositivo FPGA real. Se crean tesbenches, que verifican la sintaxis, para el funcionamiento del código. Esto para que se cumpla la funcionalidad y en tiempos. Acá podemos ver que nuestro código comienza en estado S0, donde vemos que TA es positivo y por ende se verifica que nuestras funciones de verde en TA y rojo en TB se esta cumpliendo, si arrastramos la barra amarilla podemos ver que sigue el código, hasta el estado TB, en la parte superior podemos ver nuestra entra del clck. 
-![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/4343e83e-84cc-4e41-a7fd-eea3eb5053ba)
-![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/069b1872-e7a0-4300-99e2-d5b689a386c5)
+
 ![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/09f1201b-82fd-4893-98e3-6d933da4a52b)
 
 -3.	Synthesis
