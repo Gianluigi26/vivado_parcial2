@@ -3,6 +3,8 @@
 En este paso describimos el comportamiento de un circuito digital a nivel abstracción que incluye registros, utilizando leguaje de descripción de hardware (HDL), al igual que se describe los términos de los registros que almacenaran los datos, y la trasferencia de datos entre los tipos de registros, también definimos las entras y salidas,  como también creamos señales internas .
 ![Imagen1](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/8d5e3bd4-4513-4770-9c8e-45f9c8daf38d)
 ![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/167c7aad-dcec-4823-beff-d9a269841032)
+![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/b48f6777-c7d3-45c0-b4a7-18740f3434f7)
+
 
 -2.	Simulation
 En este paso se emplea la herramienta de simulación para verificar el comportamiento del diseño antes de sintetizarlo en un dispositivo FPGA real. Se crean tesbenches, que verifican la sintaxis, para el funcionamiento del código. Esto para que se cumpla la funcionalidad y en tiempos. Acá podemos ver que nuestro código comienza en estado S0, donde vemos que TA es positivo y por ende se verifica que nuestras funciones de verde en TA y rojo en TB se esta cumpliendo, si arrastramos la barra amarilla podemos ver que sigue el código, hasta el estado TB, en la parte superior podemos ver nuestra entra del clck. 
