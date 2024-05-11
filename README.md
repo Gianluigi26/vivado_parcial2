@@ -1,4 +1,16 @@
 ### Maquina de estados vivado 
+
+los estados empleados son los siguientes:
+
+![image](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/a6419ea2-cec5-4ebb-92c7-34d044d6b4c8)
+
+ se realizo una modificacion en la cual sele agrego otro estado, donde de igual forma sele agrego una variable para que se pudiera entrar a este estado numevo que S4
+ donde se coloca tan el semaforo de TA y TB en rojo ambos para simular un estado de emergencia. siempre y cuando la variable nueva sea positiva
+ ![Imagen de WhatsApp 2024-05-10 a las 22 03 18_79363048](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/f88274d7-52a6-43fa-88c0-bb3b31195c23)
+
+
+
+
 1.	RTL Code (Registre-Transfer Level)
 En este paso describimos el comportamiento de un circuito digital a nivel abstracción que incluye registros, utilizando leguaje de descripción de hardware (HDL), al igual que se describe los términos de los registros que almacenaran los datos, y la trasferencia de datos entre los tipos de registros, también definimos las entras y salidas,  como también creamos señales internas .
 ![Imagen1](https://github.com/Gianluigi26/vivado_parcial2/assets/54091081/8d5e3bd4-4513-4770-9c8e-45f9c8daf38d)
